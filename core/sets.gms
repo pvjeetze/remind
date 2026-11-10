@@ -2301,7 +2301,7 @@ sol_itr       "iterator for inner solution process within one Negishi iteration"
 
 iteration     "iterator for main (Negishi/Nash) iterations"
 /
-    1*200
+    1*210
 /
 steps         "iterator for MAC steps"
 /
